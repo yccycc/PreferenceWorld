@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="www">
+    <com.yctech.preferenceworld.DisplaySettingsListPreference
+        android:entries="@array/outputmode_entries_display"
+        android:entryValues="@array/outputmode_values"
+        android:key="output_mode"
+        android:persistent="false"
+        android:summary="ooooo"
+        android:title="dddd" />
+    <com.yctech.preferenceworld.DisplaySettingsListPreference
+        android:entries="@array/outputmode_entries_display"
+        android:entryValues="@array/outputmode_values"
+        android:key="output_mode"
+        android:persistent="false"
+        android:summary="ggggggggg"
+        android:title="eeee" />
+</PreferenceScreen>

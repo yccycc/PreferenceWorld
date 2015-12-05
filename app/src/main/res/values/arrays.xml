@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="outputmode_entries_display">
+        <item>1080p-60hz</item>
+        <item>1080p-50hz</item>
+        <item>1080p-24hz</item>
+        <item>720p-60hz</item>
+        <item>720p-50hz</item>
+        <item>576p-50hz</item>
+        <item>480p-60hz</item>
+        <item>1080i-60hz</item>
+        <item>1080i-50hz</item>
+        <item>576i-50hz</item>
+        <item>480i-60hz</item>
+    </string-array>
+
+    <string-array name="outputmode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+
+    <string-array name="outputmode_entries_logic">
+        <item>1080p</item>
+        <item>1080p50hz</item>
+        <item>1080p24hz</item>
+        <item>720p</item>
+        <item>720p50hz</item>
+        <item>576p</item>
+        <item>480p</item>
+        <item>1080i</item>
+        <item>576i</item>
+        <item>576p</item>
+        <item>480i</item>
+    </string-array>
+
+</resources>
