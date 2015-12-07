@@ -6,13 +6,12 @@
         android:entryValues="@array/outputmode_values"
         android:key="output_mode"
         android:persistent="false"
-        android:summary="ooooo"
+        android:layout="@layout/layout"
         android:title="dddd" />
     <com.yctech.preferenceworld.DisplaySettingsListPreference
         android:entries="@array/outputmode_entries_display"
         android:entryValues="@array/outputmode_values"
-        android:key="output_mode"
+        android:key="output_modewww"
         android:persistent="false"
-        android:summary="ggggggggg"
         android:title="eeee" />
 </PreferenceScreen>
